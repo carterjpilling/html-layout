@@ -30,3 +30,42 @@
     display: inline-block;
     margin-left: 50px;
 }
+
+.middle-box{
+    width:100%;
+    height:30vh;
+    border: 5px dotted black;
+    box-sizing: border-box ;
+    padding: 50px;
+    margin-top: 25px;
+}
+
+.yellow-box{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(212, 212, 99);
+    margin: 0 auto;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.bottom-box{
+    height: 25vh;
+    width: 50%;
+    background-color: whitesmoke;
+    padding: 100px;
+    box-sizing: border-box;
+    margin: 25px auto;
+    padding:
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+.text-box{
+    width: 100%;
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+}
