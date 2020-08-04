@@ -1,0 +1,51 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+
+.top {
+    height: 100px;
+    width: 100%;
+  }
+
+.white {
+    height: 200px;
+    width: 100%;
+    }
+
+.top-gray{
+    background-color: lightgray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+.blue-box{
+    width: 50px;
+    height: 50px;
+    margin-left:10px;
+    background-color: rgb(82, 82, 214);
+}
+
+
+
+.white-box{
+    padding: 50px;
+    background-color: white;
+    box-sizing: border-box;
+    }
+
+.row-1{
+    background-color: rgb(82, 82, 214);
+}
+
+.row-2{
+    background-color: aqua;
+}
+
+.row-3{
+    background-color: greenyellow;
+}
+
+.row-4{
+    background-color: yellow;
+}
